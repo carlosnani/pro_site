@@ -1,3 +1,5 @@
 # pro_site
-Teste no github com vs code. 
-Funcionou ! :) 
+Template básico utilizando Bootstrap 4.  
+Basic Template using Bootstrap 4!
+
+:)
