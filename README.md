@@ -1,5 +1,2 @@
 # pro_site
-Template básico utilizando Bootstrap 4.  
-Basic Template using Bootstrap 4!
-
-:)
+Um template com Bootstrap 4 para ser baixado e usado onde e como quiser :)
