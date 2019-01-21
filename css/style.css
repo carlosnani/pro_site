@@ -46,6 +46,7 @@ background: #fff;
 text-align: center;
 border-radius: 100%;
 margin: 5px;
+float: left;
 }
 .icon_round:hover {
     color:rgb(31, 114, 133);
