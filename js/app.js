@@ -1,3 +1,4 @@
+//Scroll Suave
 const menuItens = document.querySelectorAll('.nav-link'); // a[href^="#"] para selecionar somente links externos
 
 menuItens.forEach((item) => {
@@ -51,6 +52,25 @@ function smoothScrollTo(endX, endY, duration) {
     }, 1000 / 60); // 60 fps
   };
 
+
+//Show images To Scroll
+
   function ola() {
     console.log("olá");
   }
+
+  let sections = document.querySelectorAll('.js-scroll');
+const windowMetade = window.innerHeight * 0.5;
+
+if(sections.length){
+  function animaScroll(){
+    sections.forEach((section)=> {
+      const sectionTop = section.getBoundingClientRect().top-windowMetade;
+      if(sectionTop < 0){
+        section.classList.add('ativo');
+      }
+    })
+}
+animaScroll();
+window.addEventListener('scroll', animaScroll);
+}

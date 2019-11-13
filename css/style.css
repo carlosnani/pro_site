@@ -90,3 +90,15 @@ border-bottom: 1px dashed #DADEE2;
     height: auto;
  }
  
+ /* Animation to Scroll */
+
+ .js-scroll {
+    opacity: 0;
+    transform:translate3d(0px,30px,0px);
+    transition: 0.5s
+}
+.js-scroll.ativo {
+    opacity: 1;
+    transform:translate3d(0,0,0);
+    transition: 0.5s;    
+}
