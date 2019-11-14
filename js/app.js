@@ -74,3 +74,4 @@ if(sections.length){
 animaScroll();
 window.addEventListener('scroll', animaScroll);
 }
+//End Show images To Scroll

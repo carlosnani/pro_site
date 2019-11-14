@@ -90,7 +90,7 @@ border-bottom: 1px dashed #DADEE2;
     height: auto;
  }
  
- /* Animation to Scroll */
+ /* - Animation to Scroll - */
 
  .js-scroll {
     opacity: 0;
@@ -101,4 +101,4 @@ border-bottom: 1px dashed #DADEE2;
     opacity: 1;
     transform:translate3d(0,0,0);
     transition: 0.5s;    
-}
+} 
