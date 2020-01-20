@@ -13,10 +13,6 @@ function scrollToIdOnClick(event) {
 }
 
 function scrollToPosiotion(to){
-    // window.scroll({
-    //     top: to - 15,
-    //     behavior: "smooth",
-    // });
     smoothScrollTo(0,to - 15,1000);
 }
 
@@ -52,14 +48,8 @@ function smoothScrollTo(endX, endY, duration) {
     }, 1000 / 60); // 60 fps
   };
 
-
-//Show images To Scroll
-
-  function ola() {
-    console.log("olá");
-  }
-
-  let sections = document.querySelectorAll('.js-scroll');
+  //Show images To Scroll
+let sections = document.querySelectorAll('.js-scroll');
 const windowMetade = window.innerHeight * 0.5;
 
 if(sections.length){
