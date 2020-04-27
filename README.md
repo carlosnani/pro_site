@@ -5,7 +5,7 @@ Um template básico de uma Landing Page com Bootstrap 4 para ser baixado e usado
 
 ### O que eu aprendi fazendo esse projeto:
 - [x] Reutilizar classes CSS3 reaproveitando classes já criadas e evitando repetições de código.
-- [x] Personzlair o Bootstrap e criar um solução com uma identidade própria.
+- [x] Personalizar o Bootstrap e criar um solução com uma identidade própria.
 - [x] Utilizar o Markdown para criar uma apresentação mais interessante para os meus projetos.
 - [ ] Engolir fogo. :unamused:
 
