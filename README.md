@@ -1,7 +1,7 @@
 # Pro_site
 Um template básico de uma Landing Page com Bootstrap 4 para ser baixado e usado onde e como quiser Html, Css, Javascripit. :smiley:
 
-### Segue o link do projeto no meu Behance cum breve apresentação [aqui!](https://www.behance.net/gallery/96069899/ProSite-Template-Free-and-Responsive?)
+### Segue o link do projeto no meu Behance com breve apresentação [aqui!](https://www.behance.net/gallery/96069899/ProSite-Template-Free-and-Responsive?)
 
 ### O que eu aprendi fazendo esse projeto:
 - [x] Reutilizar classes CSS3 reaproveitando classes já criadas e evitando repetições de código.
