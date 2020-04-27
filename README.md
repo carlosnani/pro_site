@@ -15,6 +15,5 @@ Tecnologias utilizadas: HTML5, CSS3, Javascripit, Bootstrap e Font Awesome.
 ### Abaixo vai o live preview do template.<br> 
 https://carlosnani.github.io/pro_site
 
+![Image of https://www.behance.net/gallery/96069899/ProSite-Template-Free-and-Responsive](https://mir-cdn.behance.net/v1/rendition/project_modules/1400_opt_1/93974396069899.5ea6f4dedd74d.jpg)
 
-
-![Image of https://mir-cdn.behance.net/v1/rendition/project_modules/1400_opt_1/93974396069899.5ea6f4dedd74d.jpg)
